@@ -58,17 +58,16 @@ Project Workflow
 
 Installation
 Clone this repository:
-```bash
 git clone https://github.com/username/customer-churn-prediction.git
 cd customer-churn-prediction
 Install dependencies:
 pip install -r requirements.txt
-```bash
+
 
 
 Usage
 Launch the Streamlit app:
-'''streamlit run app.py'''
+streamlit run app.py
 
 
 Results
