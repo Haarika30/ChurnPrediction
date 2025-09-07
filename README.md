@@ -18,7 +18,7 @@ It is designed to help businesses identify at-risk customers and take proactive 
 
 
 Overview
-Customer churn is a major concern for subscription-based and service-oriented businesses.  
+- Customer churn is a major concern for subscription-based and service-oriented businesses.  
 This project uses machine learning to predict churn based on customer behavior and account details.
 
 
@@ -38,7 +38,7 @@ Tech Stack
 
 
 Dataset
-The project uses a Bank Customer Churn Dataset with features like:
+- The project uses a Bank Customer Churn Dataset with features like:
 - `CustomerId`, `CreditScore`, `Age`, `Tenure`, `Balance`, `Products`, `HasCrCard`, `IsActiveMember`, `EstimatedSalary`
 
 Target variable:
@@ -57,7 +57,7 @@ Project Workflow
 
 
 Installation
-Clone this repository:
+- Clone this repository:
 git clone https://github.com/username/customer-churn-prediction.git
 cd customer-churn-prediction
 Install dependencies:
